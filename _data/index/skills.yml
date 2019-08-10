@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, SQL, Machine Learning, Hive, Pyspark, Deep Learning, Tableau, Tensorflow
-percentage: 90, 85, 95, 85, 70, 75, 85, 75
+aspects: Python, Matlab, Derivatives, Financial Risk, Fixed Income Securities, Algorithmic Trading, Machine Learning
+percentage: 75, 80, 85, 85, 80, 70

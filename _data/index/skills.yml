@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, Matlab, Derivatives, Financial Risk, Fixed Income Securities, Algorithmic Trading, Machine Learning
-percentage: 75, 80, 85, 85, 80, 70
+aspects: Python, Matlab, Derivatives, Financial Risk, Fixed Income Securities, Algorithmic Trading, Machine Learning, VBA
+percentage: 75, 80, 85, 85, 80, 70, 90

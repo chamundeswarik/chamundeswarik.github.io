@@ -2,78 +2,66 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Data Scientist (Intern), TD Bank
+    detail: MS Applied Financial Mathematics Student
   desc:
     detail: >
-      Working with Enterprise Data Analytics team on a Phone channel analytics project.
+      Masters student from UCONN in  Applied Financial Mathematics.
   date:
-    detail: May 2019 - Present, Toronto
+    detail: Aug 2019 - Present, Connecticut
   job:
-    detail: Data Scientist (Intern), TD Bank
+    detail: MS Applied Financial Mathematics Candidate, UCONN
   icon: fa-plus-square
   
 - name:
-    detail: Research Lead, DSM lab
+    detail: Fixed income Trader (Asset Management), Swiss Re
   desc:
     detail: >
-      Leading a team of 10 Masters students for building ARTML open source library and working on building Real Time Machine learning applications.
+      Fixed income trader for India branch investments portfolio totaling $200 million. Traded Sovereign and Corporate bonds, monitored the financial market to stay updated on all activity and gather all the information needed to evaluate new and existing investments. Also supported the underwriters for a couple of months to build yield database to determine to price Agro reinsurance book. Received NMRR award for improving portfolio management.
   date:
-    detail: March 2019 - Present, Toronto
+    detail: Dec 2017 - Jul 2019, Mumbai, India
   job:
-    detail: Research Lead, DSM lab, Rutgers University
+    detail: Fixed income Trader (Asset Management), Strategy & Operations Associate (Reinsurance)
   icon: fa-plus-square
   
 - name:
-    detail: MEng., Industrial Engineering (GPA 4.0)
+    detail: Valuation Risk Analyst (Financial Risk Management)
   desc:
     detail: >
-      Completed Master of Engineering in Industrial Engineering department (Data Science specialization) with 4.0 GPA.  Worked on a Research Project Adaptive Real Time Machine Learning and created an open source python library for it.
+      Pricing of Rates + FX Derivatives using Murex and SRLib models (Curve Construction, volatility surfaces).Pricing of Interest Rate Cash Products , Credit Tenant Leases, Transfer Pricing Of Funds (TPF) and Securities Lending (for underlying collateral).
   date:
-    detail: Jan. 2018 - May 2019, Toronto
+    detail: Dec. 2016 - Nov 2017, Bangalore, India
   job:
-    detail: MEng, Industrial Engineering, UofT
+    detail: Valuation Risk Analyst (Financial Risk Management), Swiss Re
   icon: fa-plus-square
   
 - name:
-    detail: Teaching Assistant, Data Science
+    detail: Product controller, Credit Suisse
   desc:
     detail: >
-      Worked as TA for Big Data & Marketing Analysis, Statistical Data Analysis, Computer Programming, 		Introduction to IT consulting, E-Business Strategies and Linear ALgebra courses. Helped in 				Preparation of lab & lecture contents and graded the assignments.
+      Financial analyst responsible for P&L analysis of FID-XVA, Inflation and Prime Services. Responsibilities also include monitoring unauthorized trading, research and analysis of drivers for large market moves etc..
   date:
-    detail: Sept. 2018 - April 2019, Toronto
+    detail: Jun. 2015 - Nov 2016, Pune, India
   job:
-    detail: Teaching Assistant, University of Toronto
+    detail: Product controller, Credit Suisse
   icon: fa-plus-square
 
 - name:
-    detail: Research Student, Data Analysis - UHN
+    detail: Intern, Financial Analyst, Credit Suisse
   desc:
     detail: >
-      Assisted medical team for analyzing patient-centered research data to empower communities about 		  Kidney transplantation. Responsible for Data processing, Data Exploration, building dashboards and 	   presenting data Insights to the research teams. 
+      Production and analysis of daily Profit and loss for Inflation, Prime Services, APAC Credit; also include management of all market and risk provisions on the books. Received SPARTAN Award Q3 2014 for significant contribution to the trading books.
   date:
-    detail: Sept. 2018 - Jan. 2019, Toronto
+    detail: Jul. 2014 - Dec. 2014, Pune, India.
   job:
-    detail: Data Analyst, University Health Network, Toronto
-  icon: fa-plus-square
+ 
 
 - name:
-    detail: Dy. Manager, GSFC
+    detail: MSc(Tech.), Finance, BITS Pilani
   desc:
     detail: >
-      Worked as a Dy. Manager in an Hydrogen generation plant. Predicted Steam Reforming Catalyst life using Machine learning and optimized parameters to improve catalyst life by 10%. Key person responsible for the formation of Six Sigma cell in Organization and planned for six sigma project executions
-  date:
-    detail: July 2015 - Dec 2017, India
-  job:
-    detail: Dy. Manager, GSFC
-  icon: fa-plus-square
-
-- name:
-    detail: BE(Hons.), Chemical Engineering,
-  desc:
-    detail: >
-      Completed BE (Hons.) Chemical with 3.6 GPA. from BITS Pilani India. 
+      Completed MSc(Tech.), Finance from BITS Pilani India. 
   date:
     detail: Aug. 2011 - July 2015, India
   job:
-    detail: Chemical Engineering, BITS Pilani
+    detail: MSc(Tech.), Finance, BITS Pilani
   icon: fa-plus-square

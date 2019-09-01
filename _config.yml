@@ -14,11 +14,11 @@ author:  # change following line to your infomation.
   name: Chamundeswari  # Be used at blog posts' author.
   first_name: Chamundeswari  # Be used at index page about me section.
   last_name: Koppisetti  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Chamu_bulls.jpeg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/chamu.jpg  # upload your avatar at directory and edit it.
   github_username: chamundeswarik  # Leave blank if you don't have now
   linkedin_id: chamundeswari-koppisetti # Leave blank if you don't have now
-  #facebook_username:   # Leave blank if you don't have now
-  #twitter_username: @chamundeswarik  # Leave blank if you don't have now
+  #facebook_username: chamundeswari.kvvsn  # Leave blank if you don't have now
+  #twitter_username: chamundeswarik  # Leave blank if you don't have now
   email: chamundeswarikvvsn@gmail.com  # Leave blank if you don't have now
   # cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz

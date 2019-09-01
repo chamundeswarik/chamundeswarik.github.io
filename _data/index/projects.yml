@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Finance
+- name: Real Time Financial Models
   i18n: 
   gh_user: Gitlink
   repo: artml
@@ -9,10 +9,10 @@
   img: /static/assets/img/landing/logo.JPG
   desc: Started working to develop real time trading models
   
-- name: 
+- name: Algorithmic Trading
   i18n: 
   gh_user: chamundeswarik
-  repo: Algo-trading_India
-  url: https://github.com/chamundeswarik/Algo-trading_India
+  repo: Algo-trading
+  url: https://github.com/chamundeswarik/Algo-Trading_Basics-and-Strategies
   img: /static/assets/img/landing/google.png
-  desc: Accomplished [X] as measured by [Y] by doing [Z].
+  desc: Developed few algo trading strategies, tested for Indian securities. Have also uploaded few VBA and Python codes involving email automation, web scraping etc. 

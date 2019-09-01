@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Chamundeswari  # Be used at blog posts' author.
   first_name: Chamundeswari  # Be used at index page about me section.
   last_name: Koppisetti  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Sundeep.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/Chamu_bulls.jpeg  # upload your avatar at directory and edit it.
   github_username: chamundeswarik  # Leave blank if you don't have now
   linkedin_id: chamundeswari-koppisetti # Leave blank if you don't have now
   #facebook_username:   # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I’m Chamundeswari, graduate student in -------------------------------. # Describe yourself.
+  desc: I’m Chamundeswari pursuing Master of Science in Applied Financial Mathematics from the University of Connecticut. I have four years of work experience in Finance Industry. I specialize in Investments and Portfolio management. Currently exploring my interests in algorithmic trading and specialising towards it.                       -------------------------------I’m Sundeep, graduate student in Industrial Engineering 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

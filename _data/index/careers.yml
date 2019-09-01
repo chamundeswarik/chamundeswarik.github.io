@@ -2,34 +2,34 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: MS Applied Financial Mathematics Student
+    detail: M.S. Applied Financial Mathematics Student
   desc:
     detail: >
       Masters student from UCONN in  Applied Financial Mathematics.
   date:
     detail: Aug 2019 - Present, Connecticut
   job:
-    detail: MS Applied Financial Mathematics Candidate, UCONN
+    detail: M.S. Applied Financial Mathematics Candidate, UCONN
   icon: fa-plus-square
   
 - name:
-    detail: Fixed income Trader (Asset Management), Swiss Re
+    detail: Fixed income Trader , Swiss Re
   desc:
     detail: >
       Fixed income trader for India branch investments portfolio totaling $200 million. Traded Sovereign and Corporate bonds, monitored the financial market to stay updated on all activity and gather all the information needed to evaluate new and existing investments. Also supported the underwriters for a couple of months to build yield database to determine to price Agro reinsurance book. Received NMRR award for improving portfolio management.
   date:
-    detail: Dec 2017 - Jul 2019, Mumbai, India
+    detail: Dec 2017 - Jul 2019, India
   job:
     detail: Fixed income Trader (Asset Management), Strategy & Operations Associate (Reinsurance)
   icon: fa-plus-square
   
 - name:
-    detail: Valuation Risk Analyst (Financial Risk Management)
+    detail: Valuation Risk Analyst , Swiss Re
   desc:
     detail: >
-      Pricing of Rates + FX Derivatives using Murex and SRLib models (Curve Construction, volatility surfaces).Pricing of Interest Rate Cash Products , Credit Tenant Leases, Transfer Pricing Of Funds (TPF) and Securities Lending (for underlying collateral).
+      Independently priced Rates and FX Derivatives using Murex and SRLib models (Curve Construction, volatility surfaces).Also performed pricing for Interest Rate Cash Products , Credit Tenant Leases, Transfer Pricing Of Funds (TPF) and Securities Lending (for underlying collateral). Automated monthly reporting for Pricing & Valuation Committee using MDX query language. Received top performance rating for the year. 
   date:
-    detail: Dec. 2016 - Nov 2017, Bangalore, India
+    detail: Dec 2016 - Nov 2017, India
   job:
     detail: Valuation Risk Analyst (Financial Risk Management), Swiss Re
   icon: fa-plus-square
@@ -38,11 +38,11 @@
     detail: Product controller, Credit Suisse
   desc:
     detail: >
-      Financial analyst responsible for P&L analysis of FID-XVA, Inflation and Prime Services. Responsibilities also include monitoring unauthorized trading, research and analysis of drivers for large market moves etc..
+      Financial analyst responsible for P&L analysis of FID-XVA, Inflation and Prime Services. Worked with the trading desk to evaluate and integrate new products and businesses into the financial environment. Responsibilities also include monitoring unauthorized trading, research and analysis of drivers for large market moves etc. Received Recognizing and Valuing Excellence (RAVE) award for my proactive approach and analytical skills
   date:
-    detail: Jun. 2015 - Nov 2016, Pune, India
+    detail: Jun 2015 - Nov 2016, India
   job:
-    detail: Product controller, Credit Suisse
+    detail: Financial Analyst (Product Control) , Credit Suisse
   icon: fa-plus-square
 
 - name:
@@ -51,16 +51,29 @@
     detail: >
       Production and analysis of daily Profit and loss for Inflation, Prime Services, APAC Credit; also include management of all market and risk provisions on the books. Received SPARTAN Award Q3 2014 for significant contribution to the trading books.
   date:
-    detail: Jul. 2014 - Dec. 2014, Pune, India.
+    detail: Jul 2014 - Dec 2014, India.
   job:
- 
-- name:
-    detail: MSc(Tech.), Finance, BITS Pilani
+     detail: Intern (Product Control) , Credit Suisse
+  icon: fa-plus-square
+  
+  - name:
+    detail: Intern, Financial Analyst, Rane Group
   desc:
     detail: >
-      Completed MSc(Tech.), Finance from BITS Pilani India. 
+      Developed an efficient Credit Scoring Application for the company lending unit.
   date:
-    detail: Aug. 2011 - July 2015, India
+    detail: May 2013 - Jul 2013, India.
   job:
-    detail: MSc(Tech.), Finance, BITS Pilani
+     detail: Intern (Finance) , Rane Group
+  icon: fa-plus-square
+  
+- name:
+    detail: M.Sc(Tech.), Finance, BITS Pilani
+  desc:
+    detail: >
+      Completed MSc(Tech.), Finance from BITS Pilani India with focus on Fixed Income Portfolio Management, Derivatives and Risk Management, Business Analysis and Valuation, Investment Banking and Financial Services.
+  date:
+    detail: Aug 2011 - Jul 2015, India
+  job:
+    detail: M.Sc(Tech.), Finance, BITS Pilani
   icon: fa-plus-square

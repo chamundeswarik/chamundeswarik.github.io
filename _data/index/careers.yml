@@ -67,6 +67,17 @@
      detail: Intern (Finance) , Rane Group
   icon: fa-plus-square
   
+  - name:
+    detail: EPAT (Certificate of Excellence), QuantInsti
+  desc:
+    detail: >
+      Completed executive program in algorithmic trading with certificate of excellence. Focussed on advanced statistics, quantitative analysis with Python, R and Machine learning, business environment. Have modelled and tested pairs trading strategies for FX currency.
+  date:
+    detail: Jan 2018 - Jun 2018, India
+  job:
+    detail: Executive Program in Algorithmic Trading, QuantInsti
+  icon: fa-plus-square
+  
 - name:
     detail: M.Sc(Tech.), Finance, BITS Pilani
   desc:

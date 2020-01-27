@@ -1,11 +1,11 @@
 # blog page sections
-- name: Blog
-  href: /blog/
+- name: Quantitative Finance Applications
+  href: /Quantitative Finance Applications/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 
-#- name: Data Science
- # href: /Data Science/
+#- name: Game Theory
+ # href: /Game Theory/
 
 #- name: Tech
 #  href: /Tech/

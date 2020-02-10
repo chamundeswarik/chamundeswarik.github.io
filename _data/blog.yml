@@ -1,6 +1,6 @@
 # blog page sections
-- name: Quantitative Finance Applications
-  href: /Quantitative Finance Applications/
+#- name: Quantitative Finance Applications
+ # href: /Quantitative Finance Applications/
 - name: Basics of Game Theory
   href: /Basics of Game Theory/
 

@@ -1,13 +1,13 @@
 # blog page sections
-#- name: Quantitative Finance Applications
- # href: /Quantitative Finance Applications/
+#- name: Quantitative Finance 
+ # href: /Quantitative Finance /
  - name: Blog
   href: /Blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 
-#- name: Basics of Game Theory
- # href: /Basics of Game Theory/
+#- name: Financial Markets and Game Theory
+ # href: /Financial Markets and Game Theory/
 
 #- name: Tech
 #  href: /Tech/
